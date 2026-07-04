@@ -8,7 +8,7 @@ Drop a packing video. Newton watches it. Each step of the SOP ticks green (or re
 
 ## Demo
 
-[▶ Watch demo](demo.mp4)
+https://github.com/user-attachments/assets/3c8bf852-b142-4b34-a666-107fdb65da8c
 
 > Use `demo.mp4` (included in this repo) as a test clip — it runs through the full packing SOP.
 
