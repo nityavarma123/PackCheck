@@ -1,0 +1,23 @@
+# Files matched here are NEVER read or displayed by Claude Code.
+# This keeps your Newton API key (ATAI_API_KEY) private at all times.
+
+# Every env file, anywhere in the tree
+.env
+.env.*
+**/.env
+**/.env.*
+
+# Explicit belt-and-suspenders for the backend location
+backend/.env
+backend/.env.local
+backend/.env.*
+
+# Any file ending in .env
+*.env
+**/*.env
+
+# Common secret file names, just in case
+secrets.json
+**/secrets.json
+*.key
+*.pem
