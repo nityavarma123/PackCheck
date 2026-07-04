@@ -1,4 +1,4 @@
-# PackVerify — Real-time packing SOP verification with Newton
+# PackCheck — Real-time packing SOP verification with Newton
 
 > Internship project at **[Archetype AI](https://archetype.ai)** — integrating Newton, Archetype's physical-world foundation model, into a live quality-assurance workflow for e-commerce fulfilment.
 
