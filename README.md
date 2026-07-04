@@ -205,4 +205,4 @@ task-verification/
 
 ---
 
-*Built during an internship at [Archetype AI](https://archetype.ai), 2025.*
+*Built during an internship at [Archetype AI](https://archetype.ai), 2026.*
