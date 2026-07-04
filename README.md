@@ -8,9 +8,9 @@ Drop a packing video. Newton watches it. Each step of the SOP ticks green (or re
 
 ## Demo
 
-https://github.com/user-attachments/assets/packing_box.mp4
+[▶ Watch demo](demo.mp4)
 
-> Upload `packing_box.mp4` (included in this repo) to see it working in mock mode — no API key needed.
+> Use `demo.mp4` (included in this repo) as a test clip — it runs through the full packing SOP.
 
 ---
 
@@ -162,7 +162,7 @@ npm run dev            # → http://localhost:5173
 
 Open [http://localhost:5173](http://localhost:5173), fill in a product name and SKU, drop a video, and click **Verify video**.
 
-The included `packing_box.mp4` is a good test clip — it runs through the full packing SOP.
+The included `demo.mp4` is a good test clip — it runs through the full packing SOP.
 
 ---
 
@@ -200,7 +200,7 @@ task-verification/
 │       │   └── parseNewton.js        Newton response parser + fail inference
 │       └── config/
 │           └── steps.js              SOP step definitions
-└── packing_box.mp4      Demo video
+└── demo.mp4      Demo video
 ```
 
 ---
